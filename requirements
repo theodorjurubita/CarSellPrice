@@ -1,0 +1,5 @@
+pandas
+sklearn
+flask
+flask_restful
+flask-cors
